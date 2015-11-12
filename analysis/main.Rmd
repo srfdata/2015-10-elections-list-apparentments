@@ -1,5 +1,5 @@
 ---
-title: 'Federal Elections 2015: List Apparentments (2015-Update)'
+title: 'Federal Elections 2015: List Apparentments (Update)'
 subtitle: 'Preprocessing and analysis'
 author: "SRF Data, Timo Grossenbacher (timo.grossenbacher@srf.ch)" 
 date: "11/12/2015"
